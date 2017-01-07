@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: marco.perez.cetis76@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -8,16 +8,16 @@ google_analytics:
 # SEO settings
 title: Fisica - C76
 description: Blog de apoyo para la clase de Fisica impartida en el cetys 76
-url: ""
+url: "marcoc76.github.io"
 twitter_username: 
-default_img: 
+default_img: https://unsplash.it/200/300?image=1074
 
 # Profile settings
 name: Ing. Marco Antonio Perez
-profile_img: 
-profile: 
+profile_img: https://unsplash.it/200/300?image=883
+profile: Ingeniero en computacion, egresado de la UNAM, actualmente trabajando en el CETyS 76 como docente de TICs y Fisica
 social:
-  github: 
+  github: marcoc76
 
 # Build settings
 include: ["_categories"]
