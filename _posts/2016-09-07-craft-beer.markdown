@@ -4,7 +4,7 @@ title: "Introduccion"
 date: 2016-09-07
 categories:
   - Introduccion
-description: 
+description: introduccion al curso de fisica 1
 image: https://unsplash.it/2000/1200?image=802
 image-sm: https://unsplash.it/500/300?image=802
 ---
