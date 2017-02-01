@@ -11,7 +11,7 @@ image-sm: https://unsplash.it/500/300?image=802
 Introducción 
 =============
 
-![]({{ site.baseurl }}/media/intro.JPEG)
+![]({{ site.baseurl }}/media/intro.jpg)
 
 El lenguaje de la Física y de la tecnología es universal, ya que las leyes y los
 hechos que estudian se expresan de manera precisa y clara, teniendo exactamente
