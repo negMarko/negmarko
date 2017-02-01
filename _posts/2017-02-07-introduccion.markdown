@@ -8,10 +8,10 @@ description: Esto es la introduccion para el curso de Fisica 1 para el CETyS 76
 image: https://unsplash.it/2000/1200?image=802
 image-sm: https://unsplash.it/500/300?image=802
 ---
+![]({{ site.baseurl }}/media/intro.jpg)
+
 Introducción 
 =============
-
-![]({{ site.baseurl }}/media/intro.jpg)
 
 El lenguaje de la Física y de la tecnología es universal, ya que las leyes y los
 hechos que estudian se expresan de manera precisa y clara, teniendo exactamente
