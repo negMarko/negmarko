@@ -50,3 +50,7 @@ Otras consideraciones
 * **No se permite comer en clase.**
 
 * **El uso del celular solo es permitido si esta consultando documentos necesarios para la clase.**
+
+<center>
+<iframe src="//giphy.com/embed/owLVW7M20P8xW" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/owLVW7M20P8xW">via GIPHY</a></p>
+</center>
