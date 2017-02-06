@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Introduccion"
 date: 2017-02-09
 categories:
