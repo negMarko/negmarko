@@ -8,7 +8,6 @@ description: Esto es la introduccion para el curso de Fisica 1 para el CETyS 76
 image: https://unsplash.it/2000/1200?image=893
 image-sm: https://unsplash.it/500/300?image=893
 ---
-![]({{ site.baseurl }}/media/intro.jpg)
 
 Introducción 
 =============
@@ -28,6 +27,8 @@ La Física es una ciencia que involucra a todos los fenómenos que se pueden
 observar en la naturaleza por lo que ha estado presente en cada instante de la
 vida humana, sus avances han hecho que podamos comprender de mejor manera los
 fenómenos naturales y aprovechar los recursos que nos brinda nuestro planeta.
+
+![]({{ site.baseurl }}/media/intro.jpg)
 
 Estructura de la clase
 --------
