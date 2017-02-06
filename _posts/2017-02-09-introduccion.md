@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Introduccion"
+title: "Introducción"
 date: 2017-02-09
 categories:
-  - Introduccion
-description: Esto es la introduccion para el curso de Fisica 1 para el CETyS 76
+  - Introducción
+description: Esto es la introducción para el curso de Física 1 para el CETyS 76
 image: https://unsplash.it/2000/1200?image=893
 image-sm: https://unsplash.it/500/300?image=893
 ---
@@ -16,7 +16,7 @@ El lenguaje de la Física y de la tecnología es universal, ya que las leyes y l
 hechos que estudian se expresan de manera precisa y clara, teniendo exactamente
 el mismo significado para cualquier persona y en cualquier lugar del mundo.
 
-Todas las cantidades físicas siempre son resultado de un proceso de medición,
+Todas las cantidades físicas siempre son el resultado de un proceso de medición,
 que deriva de una comparación con un patrón previamente establecido o conocido.
 Por ejemplo: si deseamos determinar la longitud de una tira metálica, utilizando
 los instrumentos adecuados, podemos decir que la tira mide 2 m; es decir, que se
@@ -33,7 +33,7 @@ fenómenos naturales y aprovechar los recursos que nos brinda nuestro planeta.
 Estructura de la clase
 --------
 
-En las siguientes presentaciones encontraras desglosada la informacion referente a la forma de trabajar en clase.
+En las siguientes presentaciones encontraras desglosada la información referente a la forma de trabajar en clase.
 
 <iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/ub2lyo7dhisb/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5aEF6SEt2SjUzR21pYlVDOGRsRmJLbHhRPT0&amp;landing_sign=9BVWC9eLehiCkDnRkspuMP-148mPl1QX079SuryOXZY"></iframe>
 
@@ -43,13 +43,13 @@ En las siguientes presentaciones encontraras desglosada la informacion referente
 Otras consideraciones
 --------
 
-* °**No se permitira la entrada al salon si no traes tu uniforme completo.**
+* °**No se permitirá la entrada al salón si no traes tu uniforme completo.**
 
-* °**No existe tolerancia, la entrada al salon es justo despues del profesor y una vez cerrada la puerta, nadie mas entra.**
+* °**No existe tolerancia, la entrada al salón es justo después de el profesor y una vez cerrada la puerta, nadie más entra.**
 
 * °**No se permite comer en clase.**
 
-* °**El uso del celular solo es permitido si esta consultando documentos necesarios para la clase.**
+* °**El uso del celular solo es permitido si está consultando documentos necesarios para la clase.**
 
 <center>
 <iframe src="//giphy.com/embed/owLVW7M20P8xW?html5=true&hideSocial=true" width="480" height="266" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
