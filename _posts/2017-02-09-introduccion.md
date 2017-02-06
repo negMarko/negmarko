@@ -43,14 +43,14 @@ En las siguientes presentaciones encontraras desglosada la informacion referente
 Otras consideraciones
 --------
 
-* **No se permitira la entrada al salon si no traes tu uniforme completo.**
+* °**No se permitira la entrada al salon si no traes tu uniforme completo.**
 
-* **No existe tolerancia, la entrada al salon es justo despues del profesor y una vez cerrada la puerta, nadie mas entra.**
+* °**No existe tolerancia, la entrada al salon es justo despues del profesor y una vez cerrada la puerta, nadie mas entra.**
 
-* **No se permite comer en clase.**
+* °**No se permite comer en clase.**
 
-* **El uso del celular solo es permitido si esta consultando documentos necesarios para la clase.**
+* °**El uso del celular solo es permitido si esta consultando documentos necesarios para la clase.**
 
 <center>
-<iframe src="//giphy.com/embed/owLVW7M20P8xW" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/owLVW7M20P8xW">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/owLVW7M20P8xW?html5=true&hideSocial=true" width="480" height="266" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
 </center>
