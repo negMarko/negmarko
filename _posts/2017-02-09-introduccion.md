@@ -42,7 +42,10 @@ En las siguientes presentaciones encontraras desglosada la informacion referente
 Otras consideraciones
 --------
 
->   **No se permitira la entrada al salon si no traes tu uniforme completo.**
->   **No existe tolerancia, la entrada al salon es justo despues del profesor y una vez cerrada la puerta, nadie mas entra.**
->   **No se permite comer en clase.**
->   **El uso del celular solo es permitido si esta consultando documentos necesarios para la clase.**
+* **No se permitira la entrada al salon si no traes tu uniforme completo.**
+
+* **No existe tolerancia, la entrada al salon es justo despues del profesor y una vez cerrada la puerta, nadie mas entra.**
+
+* **No se permite comer en clase.**
+
+* **El uso del celular solo es permitido si esta consultando documentos necesarios para la clase.**
