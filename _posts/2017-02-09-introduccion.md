@@ -35,10 +35,27 @@ Estructura de la clase
 
 En las siguientes presentaciones encontraras desglosada la información referente a la forma de trabajar en clase.
 
-<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/ub2lyo7dhisb/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5aEF6SEt2SjUzR21pYlVDOGRsRmJLbHhRPT0&amp;landing_sign=9BVWC9eLehiCkDnRkspuMP-148mPl1QX079SuryOXZY"></iframe>
-
-<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/d1ouzjitq_sw/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5aEhwU1dJUzFjQTZsRVFweWtWZGM4dWJBPT0&amp;landing_sign=138t2hraRaHZxWEzg1q9DWNJlqj9M215qEXb-6Ije88"></iframe>
-
+<div style="position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;">
+  <iframe style="position: absolute;
+                  top:0;
+                  left: 0;
+                  width: 100%;
+                  height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/ub2lyo7dhisb/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5aEF6SEt2SjUzR21pYlVDOGRsRmJLbHhRPT0&amp;landing_sign=9BVWC9eLehiCkDnRkspuMP-148mPl1QX079SuryOXZY"></iframe>
+</div>
+</br>
+<div style="position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;">
+  <iframe style="position: absolute;
+                  top:0;
+                  left: 0;
+                  width: 100%;
+                  height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/d1ouzjitq_sw/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5aEhwU1dJUzFjQTZsRVFweWtWZGM4dWJBPT0&amp;landing_sign=138t2hraRaHZxWEzg1q9DWNJlqj9M215qEXb-6Ije88"></iframe>
+</div>
 
 Otras consideraciones
 --------
