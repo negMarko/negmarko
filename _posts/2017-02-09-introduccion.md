@@ -45,7 +45,7 @@ En las siguientes presentaciones encontraras desglosada la información referent
                   width: 100%;
                   height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/ub2lyo7dhisb/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5aEF6SEt2SjUzR21pYlVDOGRsRmJLbHhRPT0&amp;landing_sign=9BVWC9eLehiCkDnRkspuMP-148mPl1QX079SuryOXZY"></iframe>
 </div>
-</br>
+
 <div style="position: relative;
             padding-bottom: 56.25%;
             height: 0;
