@@ -68,6 +68,8 @@ Otras consideraciones
 
 * °**El uso del celular solo es permitido si está consultando documentos necesarios para la clase.**
 
+* °**NO SE PERMITE USAR CELULAR EN EXAMENES SIN NINGUNA EXCEPCIÓN**
+
 <center>
 <iframe src="//giphy.com/embed/owLVW7M20P8xW?html5=true&hideSocial=true" width="300" height="200" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
 </center>
