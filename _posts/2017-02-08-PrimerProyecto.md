@@ -17,10 +17,6 @@ química".
 
 Habilidades necesarias:
 -----------------------
-
-![]({{ site.baseurl }}/media/Habilidades.gif)
-
-
 - Comunicación escrita
 
 - Búsqueda de información
