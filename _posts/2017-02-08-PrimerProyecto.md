@@ -62,8 +62,9 @@ Habilidades necesarias:
 
 <br>
 
-3.  Además deberán entregar el **experimento funcionando**, o en su caso un
-    **video del mismo funcionando**.
+3.  Además deberán entregar el **experimento funcionando**, o en su caso un **video del mismo funcionando**.
+
+<br>
 
 - Buena calidad de video
 - Buena ejecución de la grabación
@@ -73,6 +74,6 @@ Habilidades necesarias:
 <iframe src="//giphy.com/embed/A4mD1kXyChBgQ?html5=true" width="380" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/fail-beer-truck-A4mD1kXyChBgQ">via GIPHY</a></p>
 </center>
 
-*El pdf se envía por correo y el video puede ser entregado en clase en su
-celular, o en un link de youtube, o en un link de video de Facebook.*
+***El pdf se envía por correo y el video puede ser entregado en clase en su
+celular, o en un link de youtube, o en un link de video de Facebook.***  
 
