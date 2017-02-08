@@ -12,8 +12,8 @@ image-sm: https://unsplash.it/500/300?image=60
 Primer proyecto eduScrum
 ========================
 
-Seleccionar un experimento de fisca del pdf "experimentos sencillos de física y
-química".
+Seleccionar un experimento de fisca del pdf <a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/media/exp_sencillos_fisica.pdf">"experimentos sencillos de física y
+química"</a>.
 
 Habilidades necesarias:
 -----------------------
@@ -60,14 +60,14 @@ Habilidades necesarias:
 
 - Referencias
 
+<br>
+
 3.  Además deberán entregar el **experimento funcionando**, o en su caso un
     **video del mismo funcionando**.
 
--   Buena calidad de video
-
--   Buena ejecución de la grabación
-
--   De 5 a 10 min
+- Buena calidad de video
+- Buena ejecución de la grabación
+- De 5 a 10 min
 
 <center>
 <iframe src="//giphy.com/embed/A4mD1kXyChBgQ?html5=true" width="380" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/fail-beer-truck-A4mD1kXyChBgQ">via GIPHY</a></p>
