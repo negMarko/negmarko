@@ -43,38 +43,31 @@ Habilidades necesarias:
 - Portada
  : Datos de la institución
  : Materia
+ : Título del experimento
+ : Integrantes
 
-    -   Título del experimento
+- Introducción
+ : **Una cuartilla** de información referente al experimento elegido.
 
-    -   Integrantes
+- Desarrollo del experimento
+ : **Copiar** el desarrollo propuesto por el libro de experimentos.
 
-    -   Introducción
+- Análisis del experimento
+ : Desglose de todos los **pasos del método científico experimental** aplicado a tu experimento.
 
-        -   **Una cuartilla** de información referente al experimento elegido.
+- Conclusiones
+ : Uno o dos párrafos.
 
-    -   Desarrollo del experimento
-
-        -   **Copiar** el desarrollo propuesto por el libro de experimentos.
-
-    -   Análisis del experimento
-
-        -   Desglose de todos los **pasos del método científico experimental**
-            aplicado a tu experimento.
-
-    -   Conclusiones
-
-        -   Uno o dos párrafos.
-
-    -   Referencias
+- Referencias
 
 3.  Además deberán entregar el **experimento funcionando**, o en su caso un
     **video del mismo funcionando**.
 
-    -   Buena calidad de video
+-   Buena calidad de video
 
-    -   Buena ejecución de la grabación
+-   Buena ejecución de la grabación
 
-    -   De 5 a 10 min
+-   De 5 a 10 min
 
 <center>
 <iframe src="//giphy.com/embed/A4mD1kXyChBgQ?html5=true" width="380" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/fail-beer-truck-A4mD1kXyChBgQ">via GIPHY</a></p>
