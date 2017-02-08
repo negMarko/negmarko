@@ -21,38 +21,36 @@ Habilidades necesarias:
 ![]({{ site.baseurl }}/media/Habilidades.gif)
 
 
--   Comunicación escrita
+- Comunicación escrita
 
--   Búsqueda de información
+- Búsqueda de información
 
--   Uso de tics
+- Uso de tics
 
--   Análisis de problemas
+- Análisis de problemas
 
--   Creatividad
+- Creatividad
 
 
-Que se entrega?
+¿Que se entrega?
 ---------------
 
-1.  Fotos del progreso del tablero *Kanban*, una foto por cada cambio realizado
+1. Fotos del progreso del tablero *Kanban*, una foto por cada cambio realizado
     en el tablero (**No cuenta como calificación pero si es indispensable**).
 
 ![]({{ site.baseurl }}/media/kanban.png)
 
 
-2.  Un documento de texto en formato *pdf*, en donde se encontrara la siguiente
+2. Un documento de texto en formato *pdf*, en donde se encontrara la siguiente
     estructura:
 
-    -   Portada
+- Portada
+ : Datos de la institución
+ : Materia
 
-        -   Datos de la institución
+    -   Título del experimento
 
-        -   Materia
-
-        -   Título del experimento
-
-        -   Integrantes
+    -   Integrantes
 
     -   Introducción
 
