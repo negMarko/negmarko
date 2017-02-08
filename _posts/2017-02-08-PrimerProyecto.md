@@ -71,7 +71,7 @@ Habilidades necesarias:
 - De 5 a 10 min
 
 <center>
-<iframe src="//giphy.com/embed/A4mD1kXyChBgQ?html5=true" width="300" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/fail-beer-truck-A4mD1kXyChBgQ">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/A4mD1kXyChBgQ?hideSocial=true" width="300" height="200" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
 </center>
 
 ***El pdf se envía por correo y el video puede ser entregado en clase en su
