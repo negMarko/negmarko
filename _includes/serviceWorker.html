@@ -9,7 +9,7 @@ let offlineToast = document.querySelector('.offline-ready');
  
 // (1)
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register('/sw.js').then(function(reg) {
+  navigator.serviceWorker.register('/SW.js').then(function(reg) {
       if (!reg.installing) return;
       console.log("[*] ServiceWorker is installing...");
  
