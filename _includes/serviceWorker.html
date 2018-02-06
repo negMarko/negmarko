@@ -1,4 +1,5 @@
- let offlineToast = document.querySelector('.offline-ready');
+function showOfflineToast() { 
+let offlineToast = document.querySelector('.offline-ready');
   offlineToast.classList.add('active');
   setTimeout(function(){ 
     offlineToast.className = offlineToast.className.replace("active", "").trim();
