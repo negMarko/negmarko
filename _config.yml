@@ -1,6 +1,6 @@
 # Site settings
 email: marco.perez.cetis76@gmail.com
-baseurl: ""
+baseurl: "/negmarko"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
@@ -8,7 +8,7 @@ google_analytics:
 # SEO settings
 title: Fisica - C76
 description: Blog de apoyo para la clase de Fisica impartida en el cetys 76
-url: "https://marcoc76.github.io"
+url: "https://marcoc76.github.io/negmarko"
 twitter_username: 
 default_img: https://unsplash.it/200/300?image=1074
 
