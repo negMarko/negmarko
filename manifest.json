@@ -4,8 +4,8 @@
   "theme_color": "#212121",
   "background_color": "#212121",
   "display": "standalone",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "/negmarko/",
+  "start_url": "/negmarko/",
   "icons": [
     {
      "src": "assets/images/icons8-clase-16.png",
